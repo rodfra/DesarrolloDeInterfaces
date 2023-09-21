@@ -1,0 +1,14 @@
+D:\GitHub\DesarrolloDeInterfaces\EjerciciosDI\EjerciciosDI\bin\Debug\net6.0\EjerciciosDI.exe
+D:\GitHub\DesarrolloDeInterfaces\EjerciciosDI\EjerciciosDI\bin\Debug\net6.0\EjerciciosDI.deps.json
+D:\GitHub\DesarrolloDeInterfaces\EjerciciosDI\EjerciciosDI\bin\Debug\net6.0\EjerciciosDI.runtimeconfig.json
+D:\GitHub\DesarrolloDeInterfaces\EjerciciosDI\EjerciciosDI\bin\Debug\net6.0\EjerciciosDI.dll
+D:\GitHub\DesarrolloDeInterfaces\EjerciciosDI\EjerciciosDI\bin\Debug\net6.0\EjerciciosDI.pdb
+D:\GitHub\DesarrolloDeInterfaces\EjerciciosDI\EjerciciosDI\obj\Debug\net6.0\EjerciciosDI.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\DesarrolloDeInterfaces\EjerciciosDI\EjerciciosDI\obj\Debug\net6.0\EjerciciosDI.AssemblyInfoInputs.cache
+D:\GitHub\DesarrolloDeInterfaces\EjerciciosDI\EjerciciosDI\obj\Debug\net6.0\EjerciciosDI.AssemblyInfo.cs
+D:\GitHub\DesarrolloDeInterfaces\EjerciciosDI\EjerciciosDI\obj\Debug\net6.0\EjerciciosDI.csproj.CoreCompileInputs.cache
+D:\GitHub\DesarrolloDeInterfaces\EjerciciosDI\EjerciciosDI\obj\Debug\net6.0\EjerciciosDI.dll
+D:\GitHub\DesarrolloDeInterfaces\EjerciciosDI\EjerciciosDI\obj\Debug\net6.0\refint\EjerciciosDI.dll
+D:\GitHub\DesarrolloDeInterfaces\EjerciciosDI\EjerciciosDI\obj\Debug\net6.0\EjerciciosDI.pdb
+D:\GitHub\DesarrolloDeInterfaces\EjerciciosDI\EjerciciosDI\obj\Debug\net6.0\EjerciciosDI.genruntimeconfig.cache
+D:\GitHub\DesarrolloDeInterfaces\EjerciciosDI\EjerciciosDI\obj\Debug\net6.0\ref\EjerciciosDI.dll

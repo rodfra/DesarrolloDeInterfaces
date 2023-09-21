@@ -11,6 +11,8 @@
 
             Console.WriteLine("Tu número es " + num);
 
+            Console.WriteLine("Y si le restas 5 es : " + (num - 5));
+
             Console.WriteLine("FIN");
 
         }
