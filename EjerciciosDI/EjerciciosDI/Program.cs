@@ -11,6 +11,8 @@
 
             Console.WriteLine("Tu número es " + num);
 
+            Console.WriteLine("FIN");
+
         }
     }
 }
